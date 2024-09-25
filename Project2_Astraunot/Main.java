@@ -1,4 +1,4 @@
-package project_2;
+package Project2_Astraunot;
 public class Main {
     public static void main(String[] args) throws TaskException {
         ConsoleUI ui = new ConsoleUI();
