@@ -1,4 +1,4 @@
-package project_2;
+package Project2_Astraunot;
 
 
 import java.util.List;
